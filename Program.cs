@@ -1,6 +1,4 @@
 ﻿// See https://aka.ms/new-console-template for more information
-using System.Diagnostics;
-
 Random random = new Random();
 int secretNum = random.Next(1, 100);
 int guessCount = 0;
